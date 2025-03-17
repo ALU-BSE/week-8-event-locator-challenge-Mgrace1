@@ -1,0 +1,9 @@
+{
+    "name": "custom-event-app",
+    "version": "0.2.1",
+    "private": true,
+    "scripts": {
+      "compile": "echo 'Build process not required'"
+    }
+  }
+  
